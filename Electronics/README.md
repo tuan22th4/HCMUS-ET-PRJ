@@ -6,7 +6,7 @@ Bộ lọc chủ động dùng op-amp để lọc tín hiệu theo tần số, g
 - **BSF** (lọc chắn dải): Chặn tín hiệu trong dải tần nhất định.
 
 #### Hình minh họa:
-![Low-Pass Filter](https://github.com/tuan22th4/HCMUS-ET-PRJ/blob/main/Electronics/_DEMO/1.png)
+![Low-Pass Filter](https://github.com/tuan22th4/HCMUS-ET-PRJ/blob/main/Electronics/_DEMO/1.jpg)
 
 ---
 
